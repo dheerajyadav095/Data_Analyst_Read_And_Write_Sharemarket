@@ -1,5 +1,5 @@
 # Data_Analyst_Read_And_Write_Sharemarket
-I have created simple console application in python using multi-Threading. I have access xls file , csv file and sql data. I have calculation and adding data in this project. I will add more activity to implement in this project.
+I have created a simple console application in python using multi-Threading. I have access to Xls file, CSV file, and SQL data. I have calculated and added data to this project. I will add more activities to implement in this project.
 
 Follow steps:
 1) Chack pakages :
@@ -8,9 +8,9 @@ Follow steps:
     pip install pyodbc,
     pip install pandas,
 2) 
-   i) create table name is tbl_INE775A01035_1
+   i) create new table name is tbl_INE775A01035_1
    
-   ii) column name is DATE	OPEN	HIGH	LOW	CLOSE	NO. OF SHARES	NO. OF TRADES
+   ii) column name is DATE,OPEN,HIGH,LOW,CLOSE,NO. OF SHARES,NO. OF TRADES.
         ![image](https://user-images.githubusercontent.com/100525257/158029370-f75c0251-67ea-4a93-9f69-50421c9af179.png)
         
    iii) Insert into table data : ( enter sample data in excel . excel name is **AllShareData_All** and sheet name is **INE775A01035**)
